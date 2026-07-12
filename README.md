@@ -17,3 +17,5 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=
 
 - `POST /api/upload` — Upload image to Google Drive
 - `POST /api/delete-image` — Delete image from Google Drive
+
+<!-- Trigger Build -->
